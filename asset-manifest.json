@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ahmd-Khaled/myportfolio/static/css/main.4a2623cb.css",
+    "main.js": "/Ahmd-Khaled/myportfolio/static/js/main.1fa064c0.js",
+    "index.html": "/Ahmd-Khaled/myportfolio/index.html",
+    "main.4a2623cb.css.map": "/Ahmd-Khaled/myportfolio/static/css/main.4a2623cb.css.map",
+    "main.1fa064c0.js.map": "/Ahmd-Khaled/myportfolio/static/js/main.1fa064c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a2623cb.css",
+    "static/js/main.1fa064c0.js"
+  ]
+}
